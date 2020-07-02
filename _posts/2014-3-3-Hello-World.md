@@ -1,9 +1,9 @@
 ---
 layout: post
-title: QuBu - First Week
+title: QuBu 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A review of my first week at Qubu as an intern... 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
